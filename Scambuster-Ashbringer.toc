@@ -1,0 +1,12 @@
+## Interface: 30401
+## Title: Scambuster-Ashbringer
+## Notes: Extension for Scambuster packaging Ashbringer realm data
+## Author: LuttmaN
+## Version: 1.0.0
+## DefaultState: enabled
+## Dependencies: Scambuster
+
+LibStub.lua
+settings.lua
+list.lua
+core.lua
