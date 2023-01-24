@@ -1,6 +1,6 @@
 # Scambuster-Ashbringer
 
-Extension addon for Scambuster, packaging information on scammers and scam histories into [Scambuster](https://github.com/hypernormalisation/Scambuster), to protect players in-game. provided by Golemagg Discord:
+Extension addon for Scambuster, packaging information on scammers and scam histories into [Scambuster](https://github.com/hypernormalisation/Scambuster), to protect players in-game. provided by Ashbringer Discord:
 -  https://discord.gg/ymrNNDY
 
 Available on Curseforge:
