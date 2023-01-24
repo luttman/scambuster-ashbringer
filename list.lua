@@ -156,7 +156,7 @@ t.case_table = {
 	url = "https://discord.com/channels/615979161726484480/1038618912637587567"
     },
     [25] = {
-        name = Arklight",
+        name = "Arklight",
         category = "raid",
         description = "Ninja",
 	url = "https://discord.com/channels/615979161726484480/1038618912637587567"
